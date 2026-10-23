@@ -1,0 +1,12 @@
+python- explain machine learning simply
+
+gemini api > model > answer 
+
+google-genai
+
+1 dont send unnecessary huge prompts
+2 dont long answer generate
+3 cheap model
+4 repeated api calls
+5 max_output
+1000 users x 20 api =20000

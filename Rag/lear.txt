@@ -1,0 +1,16 @@
+refund_policy
+course_details
+placement_rules
+
+can i get a refund after 5 days?
+
+--------
+Our Data Analyst course lasts for 6 months.
+Student get access to all recorded classes.
+Live classes hapen form Monady to Friday.
+Refund requests are accepted within 7 days of placement support starts.
+Student must complete all assigment before placement support starts.
+Eligible student receive minimum 3 interview opportunities.
+----------
+
+How many interview opportunities do student get? 
